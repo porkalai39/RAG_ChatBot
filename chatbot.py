@@ -13,6 +13,7 @@ st.set_page_config(
     page_icon="🤖",
     layout="centered",
 )
+# app title
 st.title("💬 Generative AI Chatbot")
 
 # initiate chat history
