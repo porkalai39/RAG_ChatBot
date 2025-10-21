@@ -4,4 +4,7 @@
 2. activate venv
 3. install requirements.txt
 4. create and enter groq api key without double quotes
-5. run streamlit
+5. streamlit run filename.py
+
+
+Enjoy the Gen ai chatbot
